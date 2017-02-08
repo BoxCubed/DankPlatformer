@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="30" tilewidth="16" tileheight="16" nextobjectid="11">
+ <tileset firstgid="1" name="Mario-Tiles" tilewidth="17" tileheight="17" tilecount="2850" columns="75">
+  <image source="Overworld.png" width="1283" height="654"/>
+ </tileset>
+ <layer name="Background" width="100" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1jEOQEAQhtGNcBwnInFid9IoFcLK/njFa2XMZxJjX8oINDENpcy7ZfjGDHefl7AT6knrWXOetHf7wk6Bc1renZt//079q0GWKzflDknhW7QzAICnrN2x1nP9lR5Z9MiiRxY9suiRRY8semTRI4seWVr32ADijXP1
+  </data>
+ </layer>
+ <layer name="Tiles" width="100" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlTlOA0EQRUvydgJsTIjIwQn7YVgPgpEgQeSYCM4DpIgcSLDZTsCfYCRkzYy7yl2Mx/wn/Wzcru7XXSVCCCGEEEIIIYQQQv4rbw2RITJqlF0JSVhvimwgm82yKyEJ73gXH8g338fMsFXRt5H22lnpt7Hq2a6oj7TXevRby1y11nNTE7lFBmO5runrLhNPH5a5qq0n9TBERsjLWF4j+VjAOm2kgywiXWTJwXUy+z6RL4f5d4Lz7COnCh+h9UzyENvHHtbZRw6QQ+QIOXZ6ezs4r12HfnuHNe+RB+XaRfX89pDnIMSH9b5f1EUu67r9aDnD3s8dfHRa2CvSbU1fj9bDJB/W+/4IF08RfFxlzLppkzcri/7L8puBwUNov9Le92X00JUIfd2yF+tenyP/xqPGFO19pw9fH9rzLfpeM5P+cq+ruG9rOenl3MV58KGZSWXsVcM8+EgJmUn0kY2Hj5CZRB/ZePgI+YY+7Gen/Z4+qufjB05J5es=
+  </data>
+ </layer>
+ <objectgroup name="Ground">
+  <object id="1" x="0" y="336" width="352" height="144"/>
+  <object id="2" x="432" y="336" width="128" height="64"/>
+  <object id="5" x="640" y="336" width="368" height="144"/>
+  <object id="6" x="1088" y="304" width="96" height="32"/>
+  <object id="7" x="1280" y="272" width="96" height="32"/>
+  <object id="8" x="1424" y="368" width="96" height="32"/>
+  <object id="9" x="768" y="336">
+   <polygon points="0,0 160,-80 240,-80 240,0"/>
+  </object>
+ </objectgroup>
+</map>

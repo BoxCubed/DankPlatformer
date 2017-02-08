@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="ForestWorld" tilewidth="32" tileheight="32" spacing="2" margin="1" tilecount="285" columns="19">
+  <image source="mapforest.png" width="649" height="512"/>
+ </tileset>
+ <layer name="Background" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzl1DWYD3AYwPH7X4krcSnPLbpZdJ/F4TSLbhbdLLrPoptFN4tuFt0sulk0n9v9ds/jfZ7P8j7v8x3fqKh/fyJEE0MsccRThKIUozgJJJJEMimBXipppJNBJlmUoSzlKE8FKpJNJXICvcpUoSrVqE4NalKL2tShLvWoTwMaBnqNaEwTmtKM5rSgJa1oTRva0o5c2gd6HcijI53oTD5d6Eo3utODnvSiN30Cvb70oz8DGMggBjOEoQxjOCMYyShGB3pjGMs4xjOBiUxiMlOYyjSmM4OZzAr0ZjOHucxjPgtYyCIWs4SlLGM5BawI9FayitWsYS3rWM8GNrKJzWxhK9vYHujtYCe72M0e9rKP/RzgIIc4zBGOcizQO84JTnKK05zhLOc4zwUuconLXOFqoHeN69zgJre4zR3uco/7POAhj3jMk0DvKc94zgte8orXvOEt73jPBz7yic+B3he+8o3v/OAnv/hdeOBhRIgmhljiiI/8vZdgn0gSyaRQgpKUojSppJFOBplkBXr/0/wBh1xmBA==
+  </data>
+ </layer>
+</map>
